@@ -70,6 +70,11 @@ Contributions to the project are welcome! If you find any bugs or have suggestio
 - Fake API providers (e.g., JSONPlaceholder, JSON Server)
 - Developers of any libraries or tools used in this project.
 
+## UI of Website
+![image](https://github.com/vedant185raut/Online_store/assets/105361526/97e82e77-6cfc-468c-81a0-bbe8f8c1f3ce)
+
+![image](https://github.com/vedant185raut/Online_store/assets/105361526/993072cf-11b8-4bcd-8234-827ab04a6ad4)
+
 --- 
 
 Feel free to expand upon this template with more specific details about your project as needed. Good luck with your Online Store project!
