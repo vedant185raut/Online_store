@@ -1,4 +1,4 @@
-# Online Store Project
+# Online Shop Project
 
 ## Overview
 The Online Store project is a web application built with ReactJS and Redux, designed to serve as a learning tool for understanding state management and data flow in modern web development. The project utilizes a fake API to simulate product data and interactions typically found in an e-commerce platform.
